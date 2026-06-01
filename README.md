@@ -40,7 +40,7 @@ O sistema permite cadastrar usuários informando nome, telefone e e-mail, oferec
 
 ## ▶️ Como Executar
 
-
+![imagemcadastro](https://github.com/kamillymartins/CADASTRO.PESSOAS/blob/main/imagemcadastro.py)
 ## 💻 Exemplo de Uso
 
 ```text
@@ -85,11 +85,3 @@ Projeto desenvolvido para praticar os seguintes conceitos de programação:
 * Edição de cadastro;
 * Armazenamento em arquivo (.txt ou .csv);
 * Interface gráfica.
-
----
-
-## 👩‍💻 Autora
-
-**Kamilly Victoria Martins da Cruz**
-
-Projeto desenvolvido para a disciplina de **Lógica de Programação e Algoritmos**.
